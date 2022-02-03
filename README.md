@@ -38,5 +38,5 @@
 - [Rich Dad Poor Dad by Robert T. Kiyosaki with Sharon L.] (https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194).
 - [Yearbook by Seth Rogen] (https://yearbookthebook.com/).
 
-[Autolnked refernces and URLS] https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls
+![Autolnked refernces and URLS] https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls
 2021:
