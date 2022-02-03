@@ -34,8 +34,8 @@
 
 #### Books I've read: ####
 2022:
-- [The Hunger Games by Suzanne Collins] (https://www.amazon.com/Hunger-Games-Book/dp/0439023483
-- [Rich Dad Poor Dad by Robert T. Kiyosaki with Sharon L.] (https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194
-- [Yearbook by Seth Rogen] (https://yearbookthebook.com/) 
+- [The Hunger Games by Suzanne Collins] (https://www.amazon.com/Hunger-Games-Book/dp/0439023483).
+- [Rich Dad Poor Dad by Robert T. Kiyosaki with Sharon L.] (https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194).
+- [Yearbook by Seth Rogen] (https://yearbookthebook.com/).
 
 2021:
