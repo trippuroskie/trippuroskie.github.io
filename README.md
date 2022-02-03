@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Tripp's Personal Website #
 
-You can use the [editor on GitHub](https://github.com/trippuroskie/trippuroskie.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### This is an experiment, to discover the capabilities of static sites ###
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Some of my interests: ####
+- Thinking 
+- Reading 
+- Writing 
+- Coding 
+- Design
+- Snowboarding 
+- Hiking
+- Guitar 
+- Coffee
+- Biking
+- Business
+- Health
+- Nutrition
+- Yoga
+- Surfing
+- Jiu-Jitsu
 
-### Markdown
+#### Some of my experience: ####
+- Sales Operations Intern
+- Business Operations Assistant
+- Content Developer Intern
+- Server
+- Bartender
+- Barback
+- Busser
+- Expo/ Food runner
+- Cook
+- Delivery Driver
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Books I've read: ####
+2022:
+- [The Hunger Games by Suzanne Collins] (https://www.amazon.com/Hunger-Games-Book/dp/0439023483
+- [Rich Dad Poor Dad by Robert T. Kiyosaki with Sharon L.] (https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194
+- [Yearbook by Seth Rogen] (https://yearbookthebook.com/) 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trippuroskie/trippuroskie.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2021:
